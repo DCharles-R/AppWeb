@@ -1,0 +1,9 @@
+Experiencia - Tarea 2: Sitio Web Completo de Curriculum
+
+Se utilizaron nuevas etiquetas como <nav> o <a href="file_name.html"> que permiten 
+generar y agrupar enlaces del sitio. Con esto se pueden crear páginas con una estructura
+más modular, lo cual puede facilitar su mantenimiento o escalabilidad.
+
+El uso de la herramienta de LLM sigue sin presentar problemas para generar este grupo
+de archivos con detalles mínimos en los prompts. Conforme aumente la complejidad de las
+actividades se espera mayor detalle en la elaboración del prompt.

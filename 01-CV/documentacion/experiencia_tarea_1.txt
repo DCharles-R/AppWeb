@@ -1,0 +1,10 @@
+Experiencia - Tarea 1: Sitio Web de Curriculum
+
+Usar herramientas como LLMs de manera académica para aprendizaje de desarrollo web hace
+las actividades más sencillas y rápidas, además, la creación de archivos relacionados a
+esta área puede ser muy repetitiva o mecánica, por tanto, utilizar estas herramientas 
+ayuda a centrarse en otras cosas más complejas o que demandan creatividad o resolución
+de problemas.
+
+Otro punto bueno es que se le puede pedir que explique las secciones del archivo que creó
+para así familiarizarse mejor con la relación entre los comandos y lo visual.
